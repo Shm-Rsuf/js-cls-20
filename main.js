@@ -146,3 +146,13 @@ const strUpperCase = str.toUpperCase();
 const strLowerCase = str.toLowerCase();
 // console.log(strUpperCase);
 // console.log(strLowerCase); */
+
+/* const str = "Hello";
+const firstLetter = str.charAt(0);
+const lastLetter = str.charAt(str.length - 1);
+// console.log(`lastLetter:${firstLetter}, firstLetter:${lastLetter}`);
+
+const str1 = "Hello";
+const str2 = " World!";
+const joinStr = str1.concat(str2);
+console.log(joinStr); */
