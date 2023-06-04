@@ -33,3 +33,7 @@ console.log(indexOfW); */
 /* const str = "Hello world";
 console.log(str.replace("world", "everyone!"));
 console.log(str.replace("world", "❤")); */
+
+/* const str = "Lorem ipsum dolor sit, amet consectetur";
+console.log(str.split(" ")[0]);
+console.log(str.split(" ")); */
