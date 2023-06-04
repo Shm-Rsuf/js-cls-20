@@ -37,3 +37,11 @@ console.log(str.replace("world", "❤")); */
 /* const str = "Lorem ipsum dolor sit, amet consectetur";
 console.log(str.split(" ")[0]);
 console.log(str.split(" ")); */
+
+/* const str =
+  "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium, ut consequuntur fugit asperiores consequatur expedita aliquam aspernatur quasi dolorum facilis, quas voluptatem tempore praesentium architecto ipsa similique quibusdam repellendus beatae.";
+
+console.log(`${str.substring(0, 50)}..`); */
+
+const str = "Hello";
+console.log(str.repeat(5));
