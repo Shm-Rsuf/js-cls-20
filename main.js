@@ -136,23 +136,3 @@ console.log(everyArr2); */
 /* const arr2 = [10, 15, [20, 25], 30, [35, 40, [45, 50, [100]]], 55, 60];
 
 console.log(arr2.flat(3)); */
-
-/* SOME STRING METHODS IN JAVASCRIPT */
-/* --------------------------------- */
-/* const str = "Hello, world!";
-const strLength = str.length;
-// console.log(strLength);
-const strUpperCase = str.toUpperCase();
-const strLowerCase = str.toLowerCase();
-// console.log(strUpperCase);
-// console.log(strLowerCase); */
-
-/* const str = "Hello";
-const firstLetter = str.charAt(0);
-const lastLetter = str.charAt(str.length - 1);
-// console.log(`lastLetter:${firstLetter}, firstLetter:${lastLetter}`);
-
-const str1 = "Hello";
-const str2 = " World!";
-const joinStr = str1.concat(str2);
-console.log(joinStr); */
