@@ -43,5 +43,6 @@ console.log(str.split(" ")); */
 
 console.log(`${str.substring(0, 50)}..`); */
 
-const str = "Hello";
+/* const str = "Hello";
 console.log(str.repeat(5));
+ */
